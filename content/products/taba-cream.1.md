@@ -9,7 +9,7 @@ shortDescription: >-
   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
   eirmod tempor invidunt ut
 productID: '1'
-type: products
+type: Explore Our Range
 images:
   - image: images/products/product-2.png
   - image: images/products/product-1.png
