@@ -2,8 +2,9 @@ banner:
   enable: true
   title: What We Do
   content: >-
-    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed dia
+    Browse through our medicinal mushroom shop, find mushroom identification
+    information, recipe ideas, and discover what courses are on in your local
+    area.
   image: images/banner.png
   button:
     enable: true
