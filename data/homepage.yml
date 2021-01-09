@@ -17,10 +17,10 @@ about:
   enable: true
   title: Explore Our Range
   content: >-
-    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-    clita kasd gubergren,
+    About The Female Forager is the brainchild of Alexandra Lea BSc, a forager,
+    tutor and medicinal mushroom researcher. This website was created in
+    response to the apparent need in society to know what is around us and to
+    feel more connected to nature
   image: images/about.png
 cta:
   enable: true
